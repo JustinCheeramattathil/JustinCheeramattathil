@@ -1,4 +1,4 @@
-![logo](https://github.com/JustinCheeramattathil/JustinCheeramattathil/blob/main/banner6.png)
+![logo](https://github.com/JustinCheeramattathil/JustinCheeramattathil/blob/main/banner.gif)
 <h1 align="center">Hi 👋, I'm Justin Thomas</h1>
 <h3 align="center">A passionate flutter developer from India</h3>
 
