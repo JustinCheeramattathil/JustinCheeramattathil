@@ -25,8 +25,6 @@
   <a href="https://medium.com/@JustinThomas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@JustinThomas" height="30" width="40" /></a>
 
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21126543/justin-thomas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21126543/justin-thomas" height="30" width="40" /></a>
-
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/jestinthomas337?igshid=zdc4odbmnjlmnq==" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/justinthomas2203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/justinthomas2203/" height="30" width="40" /></a>
 </p>
 
