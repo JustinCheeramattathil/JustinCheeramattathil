@@ -1,6 +1,6 @@
 ![logo](https://github.com/JustinCheeramattathil/JustinCheeramattathil/blob/main/banner.gif)
 <h1 align="center">Hi 👋, I'm Justin Thomas</h1>
-<h3 align="center">A passionate flutter developer from India</h3>
+<h3 align="center">A passionate flutter wizard🧙‍♂️🧙‍♂️🧙‍♂️🪄</h3>
 
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
