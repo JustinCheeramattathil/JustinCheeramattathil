@@ -3,7 +3,7 @@
 <h3 align="center">A passionate flutter wizard🧙‍♂️🧙‍♂️🧙‍♂️🪄</h3>
 
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif">
+<img align="right" alt="coding" width="500" height="400" src="https://camo.githubusercontent.com/83990d9e67ea5149f4047d40934f7d4215a0280aa06ee2434d654cd8048ae36a/68747470733a2f2f692e70696e696d672e636f6d2f353634782f32312f33612f36312f32313361363164633863333038656634663232373739643732613231346565322e6a7067">
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=justincheeramattathil&label=Profile%20views&color=0e75b6&style=flat" alt="justincheeramattathil" /> </p>
 
