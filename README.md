@@ -3,7 +3,7 @@
 <h3 align="center">A passionate flutter wizard🧙‍♂️🧙‍♂️🧙‍♂️🪄</h3>
 
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif">
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=justincheeramattathil&label=Profile%20views&color=0e75b6&style=flat" alt="justincheeramattathil" /> </p>
 
